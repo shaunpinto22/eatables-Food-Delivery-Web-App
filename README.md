@@ -3,6 +3,7 @@ This repository hosts the source code for eatables, a dynamic food ordering appl
 
 # Features
 -User Panel
+
 -Admin Panel
 -JWT Authentication
 -Password Hashing with Bcrypt
