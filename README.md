@@ -5,15 +5,27 @@ This repository hosts the source code for eatables, a dynamic food ordering appl
 -User Panel
 
 -Admin Panel
+
 -JWT Authentication
+
 -Password Hashing with Bcrypt
+
 -Stripe Payment Integration
+
 -Login/Signup
+
 -Logout
+
 -Add to Cart
+
 -Place Order
+
 -Order Management
+
 -Products Management
+
 -Search and sort Food Products
+
 -Authenticated APIs
+
 -Beautiful Alerts
